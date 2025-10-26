@@ -13,4 +13,7 @@
   <img src="https://img.shields.io/badge/Inteligência_Artificial-5A00B3.svg?style=for-the-badge" alt="Inteligência Artificial"/>
 </p>
 Especialista em Suporte TI com Firebird/MySQL 📊... e agora fascinado pelo poder da Inteligência Artificial! Decidi embarcar em uma jornada pública para me tornar um especialista em IA/ML. Este é o log da minha transformação. Siga para acompanhar cada passo da minha evolução nesse mundo empolgante com Python e Inteligência Artificial! Aqui postarei todos os exercícios feitos no curso de Python do Gustavo Guanabara.🤖
+<h3>Minhas estatísticas do GitHub:</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GustavoReis17&theme=dark&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=GustavoReis17.GustavoReis17)
