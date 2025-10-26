@@ -1,21 +1,52 @@
-# Phyton Curso em video
-<h3>🐍 Aprendendo Python & IA 🤖</h3
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=GustavoReis17.GustavoReis17)
-<p>
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Inteligência_Artificial-5A00B3.svg?style=for-the-badge" alt="Inteligência Artificial"/>
-  
-  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Inglês-0078D4.svg?style=for-the-badge" alt="Inglês"/>
+<p align="center">
+  <a href="https://www.cursoemvideo.com" target="_blank">
+    <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png" alt="Logo Curso em Vídeo" width="300"/>
+  </a>
 </p>
-Especialista em Suporte TI com Firebird/MySQL 📊... e agora fascinado pelo poder da Inteligência Artificial! Decidi embarcar em uma jornada pública para me tornar um especialista em IA/ML. Este é o log da minha transformação. Siga para acompanhar cada passo da minha evolução nesse mundo empolgante com Python e Inteligência Artificial! Aqui postarei todos os exercícios feitos no curso de Python do Gustavo Guanabara.🤖
-<h3>Minhas estatísticas do GitHub:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GustavoReis17&theme=dark&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
+<h1 align="center">🐍 Meus Exercícios e Desafios - Python 🐍</h1>
 
+<p align="center">
+  Repositório dedicado a armazenar todas as minhas soluções e anotações dos exercícios propostos no curso de <strong>Python 3</strong> do <a href="https://www.cursoemvideo.com" target="_blank">Curso em Vídeo</a>, ministrado pelo professor Gustavo Guanabara.
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Status-Em_Andamento-yellow?style=for-the-badge" alt="Status Em Andamento"/>
+</p>
+
+---
+
+## 📚 Sobre o Curso
+
+Este curso é dividido em três "Mundos", cobrindo desde a lógica de programação fundamental até conceitos mais avançados da linguagem Python. Este repositório serve como meu diário de bordo pessoal para acompanhar meu progresso.
+
+## 📂 Estrutura do Repositório
+
+Os exercícios estão organizados em pastas que correspondem aos "Mundos" e aulas do curso, facilitando a navegação e consulta.
+
+* `📁 Mundo 1 - Fundamentos:`
+    * (Exercícios iniciais, tipos primitivos, operadores, módulos, etc.)
+* `📁 Mundo 2 - Estruturas de Controle:`
+    * (Condicionais `if/else`, loops `for` e `while`, interrupções.)
+* `📁 Mundo 3 - Estruturas Compostas:`
+    * (Tuplas, listas, dicionários, funções, tratamento de erros, etc.)
+
+## 💡 Aviso
+
+Este repositório reflete meu processo de aprendizado. Sinta-se à vontade para usá-lo como referência ou para consulta, mas lembre-se: a melhor forma de aprender é **tentando resolver os desafios por conta própria** antes de olhar a solução!
+
+## 🛠️ Ferramentas Utilizadas
+
+* **Linguagem:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+* **Controle de Versão:** ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+* **IDE:** ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+    * (Você pode trocar o "VSCode" pela IDE que você usa, como PyCharm)
+
+---
+
+### 🧑‍💻 Autor
+
+Feito por **[GustavoReis17](https://github.com/GustavoReis17)**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoReis17)
