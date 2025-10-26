@@ -40,9 +40,7 @@ Este repositório reflete meu processo de aprendizado. Sinta-se à vontade para 
 
 * **Linguagem:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 * **Controle de Versão:** ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-* **IDE:** ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-    * (Você pode trocar o "VSCode" pela IDE que você usa, como PyCharm)
-
+* **IDE:** ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ---
 
 ### 🧑‍💻 Autor
