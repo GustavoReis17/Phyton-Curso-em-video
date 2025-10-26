@@ -1,2 +1,2 @@
 # Phyton Curso em video
-Tudos exercicios que fiz de Phyton do curso em video
+Especialista em Suporte TI com Firebird/MySQL 📊... e agora fascinado pelo poder da Inteligência Artificial! Decidi embarcar em uma jornada pública para me tornar um especialista em IA/ML. Este é o log da minha transformação. Siga para acompanhar cada passo da minha evolução nesse mundo empolgante com Python e Inteligência Artificial! Aqui postarei todos os exercícios feitos no curso de Python do Gustavo Guanabara.🤖
